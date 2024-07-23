@@ -44,7 +44,7 @@ Distribution of Spam vs. Ham Messages: We visualize the proportion of spam and h
 ## Results
 
 The accuracy of each model is compared and visualized using a bar plot. Below is the accuracy table:
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/455d259a-3bdb-4ad5-8a4d-e227c29e22ab">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/455d259a-3bdb-4ad5-8a4d-e227c29e22ab">
 ![image](https://github.com/user-attachments/assets/8d51de0d-49c4-489a-8b4c-135b04b9ed9b)
 
 
