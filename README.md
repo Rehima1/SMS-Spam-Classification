@@ -5,7 +5,7 @@ This project demonstrates the use of various machine learning models to classify
 
 ## Project Structure
 
-- [spam_ham_classification.ipynb](): The main Python script that includes the data processing, model training, evaluation, and visualization.
+- [spam_ham_classification.ipynb](https://github.com/Rehima1/SMS-Spam-Classification/blob/main/spam_ham_classification.ipynb): The main Python script that includes the data processing, model training, evaluation, and visualization.
 - `README.md`: Project documentation.
 
 ## Data
@@ -44,7 +44,7 @@ Distribution of Spam vs. Ham Messages: We visualize the proportion of spam and h
 ## Results
 
 The accuracy of each model is compared and visualized using a bar plot. Below is the accuracy table:
-<img width="239" alt="image" src="https://github.com/user-attachments/assets/455d259a-3bdb-4ad5-8a4d-e227c29e22ab">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/455d259a-3bdb-4ad5-8a4d-e227c29e22ab">
 ![image](https://github.com/user-attachments/assets/8d51de0d-49c4-489a-8b4c-135b04b9ed9b)
 
 
