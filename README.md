@@ -31,6 +31,7 @@ Distribution of Spam vs. Ham Messages: I visualize the proportion of spam and ha
 ![image](https://github.com/user-attachments/assets/23cd8fd9-ed84-4360-9b24-084eb7d14de2)
 ![image](https://github.com/user-attachments/assets/a224cc50-dfb5-4994-9f6d-4e2ea8e0b73b)
 ![image](https://github.com/user-attachments/assets/0a61f9da-a3f4-43bc-aea7-f52a2d332162)
+![image](https://github.com/user-attachments/assets/6fd3b3ed-46f3-40f6-b737-82a414707820)
 
 
 ## Models Compared
