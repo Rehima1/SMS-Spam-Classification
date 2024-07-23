@@ -49,4 +49,7 @@ The accuracy of each models are compared and visualized using a bar plot. Below 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/455d259a-3bdb-4ad5-8a4d-e227c29e22ab">
 ![image](https://github.com/user-attachments/assets/8d51de0d-49c4-489a-8b4c-135b04b9ed9b)
 
+## Acknowledgements
+Dataset sourced from [source link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
+Machine learning libraries used: scikit-learn, numpy, pandas, matplotlib.
 
