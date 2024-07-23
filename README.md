@@ -5,7 +5,7 @@ This project demonstrates the use of various machine learning models to classify
 
 ## Project Structure
 
-- [spam_ham_classification.ipynb](https://github.com/Rehima1/SMS-Spam-Classification/blob/main/spam_ham_classification.ipynb): The main Python script that includes the data processing, model training, evaluation, and visualization.
+- [spam_ham_classification.ipynb](https://github.com/Rehima1/SMS-Spam-Classification/blob/main/spam_ham_classification.ipynb): The main jupyter notebook that includes the data processing, model training, evaluation, and visualization.
 - `README.md`: Project documentation.
 
 ## Data
@@ -25,6 +25,7 @@ The dataset consists of sample text messages labeled as 'spam' or 'ham'. Here's 
 ## Exploratory Data Analysis (EDA)
 During the EDA process, I examine the dataset to understand its structure, identify patterns, and uncover insights. Here are a few steps I performed:
 Distribution of Spam vs. Ham Messages: I visualize the proportion of spam and ham messages.
+
 ![image](https://github.com/user-attachments/assets/8fb84656-276f-4a04-bea7-1d6e32609bdb)
 ![image](https://github.com/user-attachments/assets/56f92038-fcc8-4e1f-a0d3-189840c94450)
 ![image](https://github.com/user-attachments/assets/23cd8fd9-ed84-4360-9b24-084eb7d14de2)
